@@ -1,5 +1,5 @@
 
-#import "RCTBridgeModule.h"
+#import <React/RCTBridgeModule.h>
 #import "RCTEventDispatcher.h"
 #import "IronSource/IronSource.h"
 
